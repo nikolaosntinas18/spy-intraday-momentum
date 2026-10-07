@@ -76,7 +76,7 @@ The data file is not included in the repository.
 | | Test | 4.7% | 6.7% | 0.72 |
 | Baseline (vol. sizing) | Train | 16.0% | 14.9% | 1.07 |
 | | Test | 10.3% | 14.6% | 0.75 |
-| SPY buy and hold | Train | FILL IN | FILL IN | FILL IN |
+| SPY buy and hold | Train | 15.9% | 16.6% | 0.98 |
 | | Test | 10.6% | 17.2% | 0.67 |
 
 Observations:
