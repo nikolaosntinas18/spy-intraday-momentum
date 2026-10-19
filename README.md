@@ -1,6 +1,6 @@
 # Intraday Momentum Strategy for SPY
 
-Case study for the WUTIS Algorithmic Trading Superday.
+
 
 Replication and extension of Zarattini, Aziz and Barbon (2025), *Beat the Market: An Effective Intraday Momentum Strategy for S&P500 ETF (SPY)*.
 
